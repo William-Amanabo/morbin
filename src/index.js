@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App2";
 import reportWebVitals from "./reportWebVitals";
-import * as serviceWorker from "./util/PWA/serviceWorker";
 
 ReactDOM.render(
   <React.StrictMode>
